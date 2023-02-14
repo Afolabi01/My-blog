@@ -1,7 +1,7 @@
 ---
-title: "My experience working on KPMG virtual internship"
+title: "KPMG virtual internship experience"
 description: |
-  A very challenging yet eye-opening experience.
+  This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website, a challenging yet ye-opening experience..
 author:
   - name: Oyemade Emmanuel
     url: https://example.com/norajones
@@ -18,6 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
- This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website <https://rstudio.github.io/distill>.
+ 
+ 
 
 
