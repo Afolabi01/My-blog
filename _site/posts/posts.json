@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2023-02-14-my-experience-working-on-kpmg-virtual-internship/",
-    "title": "My experience working on KPMG virtual internship",
-    "description": "A very challenging yet eye-opening experience.",
-    "author": [
-      {
-        "name": "Oyemade Emmanuel",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2023-02-14",
-    "categories": [],
-    "contents": "\r\nThis is a simple blog about the experience I had when I took part in the KPMG virtual internship on theforage website https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-02-14T14:02:12+01:00",
-    "input_file": "my-experience-working-on-kpmg-virtual-internship.knit.md"
-  },
-  {
     "path": "posts/welcome/",
     "title": "Welcome to My first blog",
     "description": "Just a simple introduction of myself and my data journey to this point",
@@ -32,5 +15,39 @@
     "preview": {},
     "last_modified": "2023-02-14T14:07:54+01:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/",
+    "title": "My Data Journey",
+    "description": "A new article created using the Distill format.",
+    "author": [
+      {
+        "name": "Oyemade Emmanuel",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-02-14",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-02-14T14:46:53+01:00",
+    "input_file": "My-data-journey.knit.md"
+  },
+  {
+    "path": "posts/2023-02-14-my-experience-working-on-kpmg-virtual-internship/",
+    "title": "KPMG virtual internship experience",
+    "description": "This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website, a challenging yet ye-opening experience..",
+    "author": [
+      {
+        "name": "Oyemade Emmanuel",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-02-14",
+    "categories": [],
+    "contents": "\r\n\r\nContents\r\nAbout KPMG\r\nAbout KPMG virtual internship\r\n\r\nLittle or no experience is gained when students get introduced to the technological world. When I was learning processes in data, I had no practical experience and I gained only technical skills. Companies all over the world have started investing in helping students, interns(both undergraduate and graduate) gain technical experience.\r\nAbout KPMG\r\nKPMG is a global network of professional firms providing Audit, Tax and Advisory services.KPMG delivers services in 164 countries all around the world.\r\nKPMG helps clients all around the world make decisions consciously and help make more informed decisions, help with risk analysis and also help grasp opportunities that are hard to see or come by.\r\nAbout KPMG virtual internship\r\nWith the help of theforage.com , KPMG has been able to empower employees and interns all around with the skills that are highly demanded by big shot companies. This program helps prepare trainees as data consultants(junior).\r\nHelping trainees make use of their skill for relevant tasks that prepare them for the future and the career ahead of them. The trainees are challenged to use software such as Microsoft excel, Power point and also Microsoft Word. The challenges are quite tricky but nothing trainees whom have gone through the learning process would not be able to tackle, this training helps trainees be able to use their own initiative to tackle challenges\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-02-14T18:20:12+01:00",
+    "input_file": "my-experience-working-on-kpmg-virtual-internship.knit.md"
   }
 ]

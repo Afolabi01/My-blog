@@ -1,7 +1,7 @@
 ---
-title: "My experience working on KPMG virtual internship"
+title: "KPMG virtual internship experience"
 description: |
-  A very challenging yet eye-opening experience.
+  This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website, a challenging yet ye-opening experience..
 author:
   - name: Oyemade Emmanuel
     url: https://example.com/norajones
@@ -13,11 +13,16 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
- This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website <https://rstudio.github.io/distill>.
+Little or no experience is gained when students get introduced to the technological world. When I was learning processes in data, I had no practical experience and I gained only technical skills. Companies all over the world have started investing in helping students, interns(both undergraduate and graduate) gain technical experience.
 
+## About KPMG 
+KPMG is a global network of professional firms providing Audit, Tax and Advisory services.KPMG delivers services in 164 countries all around the world.
+KPMG helps clients all around the world make decisions consciously and help make more informed decisions, help with risk analysis and also help grasp opportunities that are hard to see or come by.
 
+## About KPMG virtual internship
+With the help of theforage.com , KPMG has been able to empower employees and interns all around with the skills that are highly demanded by big shot companies. This program helps prepare trainees as data consultants(junior).
+Helping trainees make use of their skill for relevant tasks that prepare them for the future and the career ahead of them. The trainees are challenged to use software such as Microsoft excel, Power point and also Microsoft Word. The challenges are quite tricky but nothing trainees whom have gone through the learning process would not be able to tackle, this training helps trainees be able to use their own initiative to tackle challenges
