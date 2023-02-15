@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My first blog",
-    "description": "Just a simple introduction of myself and my data journey to this point",
-    "author": [
-      {
-        "name": "Oyemade Emmanuel",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2023-02-14",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-02-14T14:07:54+01:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
     "path": "posts/",
     "title": "My Data Journey",
     "description": "A new article created using the Distill format.",
@@ -49,5 +32,22 @@
     "preview": {},
     "last_modified": "2023-02-15T12:44:45+01:00",
     "input_file": "my-experience-working-on-kpmg-virtual-internship.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to my blog",
+    "description": "This is just a place where I write, and write and write. Welcome to my world, where I talk about data and some other random stuffs.",
+    "author": [
+      {
+        "name": "Oyemade Emmanuel",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-02-14",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-02-15T15:40:59+01:00",
+    "input_file": "welcome.knit.md"
   }
 ]

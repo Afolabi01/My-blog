@@ -1,7 +1,7 @@
 ---
-title: "Welcome to My first blog"
+title: "Welcome to my blog"
 description: |
-  Just a simple introduction of myself and my data journey to this point
+  This is just a place where I write, and write and write. Welcome to my world, where I talk about data and some other random stuffs.
 author:
   - name: Oyemade Emmanuel 
     url: https://example.com/norajones
@@ -13,10 +13,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
 
