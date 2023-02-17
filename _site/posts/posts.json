@@ -1,20 +1,20 @@
 [
   {
     "path": "posts/",
-    "title": "My Data Journey",
-    "description": "A new article created using the Distill format.",
+    "title": "What is a Data analyst?",
+    "description": "We have all been hearing data analyst, junior data analyst, data consultant and most people develop interest without even knowing what it actually entails.",
     "author": [
       {
         "name": "Oyemade Emmanuel",
-        "url": "https://example.com/norajones"
+        "url": {}
       }
     ],
-    "date": "2023-02-14",
+    "date": "2023-02-17",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nWhat is a Data Analyst?\r\nI have heard a whole lot of “definitions” or should I say descriptions of what a data analyst is or let’s just say should be. Some people believe being a data analyst qualifies you to be called a machine learning scientist and at times people just straight up call you a data scientist. Even though they are similar to an extent, a data analyst still differs from a data scientist in some ways.\r\nA data analyst role is one which cannot be overlooked in various industries as it helps make the decision making process much more easier(not easier but more conscious) and data oriented.So, we get back to who and what a data analyst is?\r\nA data analyst simply put is one who identifies key insights in data, discovers ways the data can be used to solve problems, and then communicate this information to stakeholders.Most firms need the service of a data analyst for help in making sense of their data, research, profit making, to cut cost or all of the above.\r\nWhat does being a Data Analyst mean to me?\r\nWe know what it means to be a data analyst in general, now lets us talk about what being a data analyst means to me. So, I have been working as an adviser at my father’s company for a while now(it was not an official job then), but I had to go learn the skills of a data analyst to be able to do more and for a while I have done the duties of one but what does it really mean to be a data analyst.First, I have done a lot of data entry as most of the data was on paper, making use of Microsoft Excel and its wonderful pool of resources like data validation, then some data cleaning(this is much easier cause I did the entry myself), then the analysis. What I failed to understand at first was the fact that when reporting, you have to write with your target audience in mind throughout, your use of terminologies has to align with the audience, you have to think about what bracket they fall into as not all target audience are professionals with knowledge of those terminologies, making use of basic English would suffice most times. But working on various projects and programs have made me come to a realization that being a data analyst involves a whole lot of data cleaning(a whole lot), you spend a lot of time cleaning data and validating data, it is a boring process but most learning/experience is gained in the process(this is why I enjoy data cleaning) and let’s face it, what useful information can you get from unclean data. After data cleaning, you do some joining and summarizing of your data and gathering of insights( some KPI definition) then you communicate your results.\r\nWhat tools do Data Analysts use?\r\nA whole lot of small businesses make use of Microsoft Excel for data analysis since they do not own large amounts of data, and trust me you might end up not using more than that as a data analyst. Professionally, I do not make use of any tool other than Microsoft Excel for data analysis but personally , I use PostgreSQl, Microsoft PowerBI, R and Tableau once in a while. And I personally think as a data analyst, one should be able to make use of at least SQL, Spreadsheets and one visualization tool/BI tool. I am not going to give a career map but just for information sake, I would advise learning in this direction; Spreadsheets(Microsoft Excel or Google Sheets) to SQL(any flavor) to visualization tool(Microsoft PowerBI or Tableau or any other tool) then Statistical language(Python or R). Knowledge of tools such as Microsoft Powerpoint and Microsoft Word is also advised.\r\nConclusion\r\nSincerely, I had to make this article as short as possible as it is just an introduction to what it actually means to be a data analyst(both in general and to me). To me , being a data analyst means continuous hunger for knowledge, wanting to learn and know more. Indicators change from time to time, businesses face challenges and you have to be ready to tackle those challenges. I always say the ability to Google search is also a skill that you need to have, there is billions of information out there that can help you grow as much as needed. Lastly, when you are learning skills, look for ways to apply them, it is not the skills that matter but how well you know how to apply it. Some other time, I would write about resources that helped me learn and grow as a Data analyst.\r\nThank you for reading!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-02-14T14:46:53+01:00",
-    "input_file": "My-data-journey.knit.md"
+    "last_modified": "2023-02-17T16:31:36+01:00",
+    "input_file": "Data-analyst.knit.md"
   },
   {
     "path": "posts/2023-02-14-my-experience-working-on-kpmg-virtual-internship/",
