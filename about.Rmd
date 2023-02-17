@@ -1,9 +1,15 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  The Afolabi blog
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## The Afolabi
+Well, this is a new way I refer to myself now, seems catchy and I think I am getting use to it.
+Getting to the order of the day(article '-') , this is my safe place, where I share information, give my opinion and be myself. I am a Data analyst, UI/UX designer, Chemical engineering student, a musician, performer and song writer.
+
+  This is a place to learn, read for fun, criticize my ideas , criticize others and all. Basically just be myself.
