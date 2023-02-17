@@ -1,7 +1,7 @@
 ---
 title: "My Data Journey"
 description: |
-  A new article created using the Distill format.
+  My transition from a Chemical engineer and UI/UX designer into Data.
 author:
   - name: Oyemade Emmanuel
     url: https://example.com/norajones
@@ -12,6 +12,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
 
 

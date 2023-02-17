@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "Oyemade Emmanuel"
 site: distill::distill_website
 listing: posts
 ---
