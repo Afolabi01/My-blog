@@ -1,0 +1,19 @@
+---
+title: "Data Analyst:What it means to be one"
+description: |
+  We have all been hearing data analyst, junior data analyst, data consultant and most people develop interest without even knowing what it actually entails.
+author:
+  - name: Oyemade Emmanuel 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+
