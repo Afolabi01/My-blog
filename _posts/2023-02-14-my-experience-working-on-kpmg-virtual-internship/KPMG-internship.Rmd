@@ -1,7 +1,7 @@
 ---
 title: "KPMG virtual internship experience"
 description: |
-  This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website, a challenging yet ye-opening experience..
+  This is a simple blog about the  experience I had when I took part in the KPMG virtual internship on theforage website, a challenging yet eye-opening experience..
 author:
   - name: Oyemade Emmanuel
     url: 
