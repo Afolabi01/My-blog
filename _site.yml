@@ -3,6 +3,7 @@ title: "theafolabi"
 description: |
   The blog
 output_dir: "_site"
+theme: labie.css
 navbar:
   right:
     - text: "Home"
